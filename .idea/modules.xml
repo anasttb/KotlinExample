@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicSyntax/BasicSyntax.iml" filepath="$PROJECT_DIR$/BasicSyntax/BasicSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" filepath="$PROJECT_DIR$/FunctionalProgramming/FunctionalProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWorkJava/HomeWorkJava.iml" filepath="$PROJECT_DIR$/HomeWorkJava/HomeWorkJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinExample.iml" filepath="$PROJECT_DIR$/KotlinExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+    </modules>
+  </component>
+</project>
