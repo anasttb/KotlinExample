@@ -7,6 +7,8 @@ fun main() {
     array[4] = 10
     println(array[4])
 
+    // comment
+
     val array2 = arrayOfNulls<Int>(10)
     println(array2.contentToString())
     array2[3] = 67
